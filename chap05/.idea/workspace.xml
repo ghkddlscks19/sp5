@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="chap05:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="986c481a-50bd-43b8-a8a2-d19183047481" name="Changes" comment="git init">
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/config/AppCtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/config/AppCtx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/main/MainForSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/AlreadyExistingMemberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/ChangePasswordService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/DuplicateMemberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/MemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/MemberInfoPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/MemberInfoPrinter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/MemberListPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/MemberNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/MemberPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/MemberRegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/MemberSummaryPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/VersionPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04/src/main/java/spring/WrongIdPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/chap05_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aop-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aspects-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-beans-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-support-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-core-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-expression-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jdbc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jms-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-messaging-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-orm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-oxm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-test-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-tx-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-web-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-webmvc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Controller/controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppCtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppCtx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppCtxForList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppCtxManual1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppCtxManual2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppCtxWithExclude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppCtxWithExplicit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/ManualBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/NoProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/MainForExclude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/MainForExplicit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/MainForList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/MainForManual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/MainForSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/AlreadyExistingMemberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/ChangePasswordService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/DuplicateMemberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/MemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/MemberInfoPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/MemberInfoPrinter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/MemberListPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/MemberNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/MemberPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/MemberRegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/MemberSummaryPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/VersionPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/WrongIdPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring2/MemberRegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ELB5NgEM7LBSDaC5vHi2mF7ZXs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d6a793bf5df09d023147d865cf96d54f&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ghkdd\Desktop\Spring\sp5\chap05\web\WEB-INF\views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainForSpring">
+    <configuration name="MainForSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.MainForSpring" />
+      <module name="chap05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.82" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.82" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="chap05:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="c476e0b5-805f-436d-a96a-a7649475315d" />
+        <option name="HTTP_PORT" value="9090" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="11896" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="chap05:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainForSpring" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.82" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainForSpring" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="986c481a-50bd-43b8-a8a2-d19183047481" name="Changes" comment="" />
+      <created>1662364802528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662364802528</updated>
+      <workItem from="1662364804382" duration="2973000" />
+      <workItem from="1662368824299" duration="455000" />
+      <workItem from="1662369801216" duration="3837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="git init" />
+    <option name="LAST_COMMIT_MESSAGE" value="git init" />
+  </component>
+</project>
